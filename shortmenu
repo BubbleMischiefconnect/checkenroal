@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Rollmaster-cheese",
+    "price": 250,
+    "imageURL": "https://i.ibb.co/Zz0jv4mJ/rollmaster-cheese.png"
+  },
+  {
+    "id": 2,
+    "name": "Double-chicken-clasic",
+    "price": 240,
+    "imageURL": "https://i.ibb.co/4kWYBxG/double-chicken-clasic.png"
+  },
+  {
+    "id": 3,
+    "name": "Chicken-cesadile",
+    "price": 240,
+    "imageURL": "https://i.ibb.co/1YWssMpF/chicken-cesadile.png"
+  },
+    {
+    "id": 4,
+    "name": "Chicken-cesadile",
+    "price": 240,
+    "imageURL": "https://i.ibb.co/1YWssMpF/chicken-cesadile.png"
+  },
+      {
+    "id": 5,
+    "name": "Chickenburger",
+    "price": 180,
+    "imageURL": "https://i.ibb.co/DDX0bR6Z/chickenburger.png"
+  }
+]
